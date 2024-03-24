@@ -1,0 +1,28 @@
+{
+  "name": "gradient-gen",
+  "version": "1.0.0",
+  "description": "Introducing 🌈 Gradientify 🌈 - your go-to npm package for effortless gradient creation! With Gradientify, developers can generate stunning gradients for their web projects in just a few lines of code. 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajputpritesh1/gradient-gen.git"
+  },
+  "keywords": [
+    "npm",
+    "gradient-generator",
+    "gradient",
+    "colors"
+  ],
+  "author": "Pritesh Kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rajputpritesh1/gradient-gen/issues"
+  },
+  "homepage": "https://github.com/rajputpritesh1/gradient-gen#readme",
+  "dependencies": {
+    "chroma-js": "^2.4.2"
+  }
+}
